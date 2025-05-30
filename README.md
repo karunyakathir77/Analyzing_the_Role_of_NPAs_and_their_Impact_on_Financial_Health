@@ -1,4 +1,4 @@
-# Analyzing_the_Role_of_NPAs_and_their_Impact_on_Financial_Health
+# Analyzing_the_Role_of_NPAs_and_their_Impact_on_Financial_Health_at_SBI
 ## Objective:
 This project is to demonstrate the impact of Non-Performing Assets (NPAs) on key financial parameters using various techniques to determine whether NPAs significantly affect the financial health of the bank. The study explores how rising NPAs affect earnings, lending capacity, and financial stability. Since a bank’s core operations revolve around deposits and loans, any disruption in loan repayments (which converts as NPA) can lead to cash flow imbalances.
 ## Proposed Research Methodology
