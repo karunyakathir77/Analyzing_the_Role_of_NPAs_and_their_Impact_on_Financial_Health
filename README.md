@@ -18,10 +18,8 @@ This project is to demonstrate the impact of Non-Performing Assets (NPAs) on key
 ## Data Analysis
 The detailed data analysis, including Ratio Computations, Statistical Analysis, Stress Testing and CAMEL Analysis, is available in the GitHub repository.
 ## Findings
-* SBI has shown improvement in asset quality with declining GNPA and NNPA ratios, reflecting effective credit risk management and better loan recovery mechanisms.
-* The increase in Provision Coverage Ratio (PCR) indicates that the bank is more prepared to absorb potential losses from NPAs, reducing overall financial stress.
-* High values in Net Profit Margin, Return on Assets (ROA), and Return on Equity (ROE) confirm consistent profitability and robust financial stability.
-* Stable growth in advances, along with an optimal Advances-to-Deposit Ratio (ADR), shows efficient lending operations and strong utilization of deposit resources.
+* SBI has shown improvement in Asset Quality with declining NPA ratios and increasing in PCR, indicates effective credit risk management and preparedness to absorb potential losses.
+* Stable growth in Profitability and Advances Ratios, confirm consistent profitability, efficient lending operations and robust financial stability.
 * A strong negative correlation between NPAs and profitability as well as advances highlights that rising NPAs reduce earnings and limit credit expansion.
 * Stress testing shows that a sharp increase in GNPA leads to significant profit decline or loss, indicating how critical NPA control is for financial stability.
 * Regression analysis confirms that increases in NPAs directly lower net profit, reinforcing the need for proactive risk monitoring and management.
@@ -33,4 +31,4 @@ The detailed data analysis, including Ratio Computations, Statistical Analysis, 
 * Continue strengthening credit risk management by adopting AI-driven predictive analytics to identify potential loan defaults earlier.
 * Optimize cost efficiency by further automating operational processes and reducing manual intervention in routine banking activities.
 ## Overall Outcomes
-The analysis shows that NPAs significantly impact SBI’s profitability, credit growth, and financial stability. Despite improvements in asset quality and provisioning, rising NPAs still pose risks. Correlation and regression confirm a strong negative effect on earnings, highlighting the need for proactive risk management. While SBI performs well under the CAMEL framework, continued focus on credit monitoring, recovery efficiency, and income diversification is essential for sustained growth and resilience.
+The analysis shows that NPAs significantly impact SBI’s profitability, credit growth, and financial stability. Despite improvements in asset quality and provisioning, rising NPAs still pose risks. With continued focus on credit monitoring, recovery efficiency, and income diversification is essential for sustained growth and resilience.
