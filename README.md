@@ -16,7 +16,7 @@ This project is to demonstrate the impact of Non-Performing Assets (NPAs) on key
 * Stress Testing
 * CAMEL Framework
 ## Data Analysis
-The detailed data analysis, including Ratio Computations, Statistical Analysis, Stress Testing and CAMEL Analysis, is available in the GitHub repository.
+The detailed data analysis, including Ratio Computations, Statistical Analysis, Stress Testing and CAMEL Analysis, is available in the [GitHub repository](https://github.com/karunyakathir77/Analyzing_the_Role_of_NPAs_and_their_Impact_on_Financial_Health/blob/38a3bdf2693fb1af14ea979a6e613aa12ee8de9e/NPA%20Analysis%20and%20their%20Impact.pdf)
 ## Findings
 * SBI has shown improvement in Asset Quality with declining NPA ratios and increasing in PCR, indicates effective credit risk management and preparedness to absorb potential losses.
 * Stable growth in Profitability and Advances Ratios, confirm consistent profitability, efficient lending operations and robust financial stability.
